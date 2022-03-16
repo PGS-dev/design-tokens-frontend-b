@@ -1594,10 +1594,10 @@
     "@webassemblyjs/wast-parser" "1.9.0"
     "@xtuc/long" "4.2.2"
 
-"@wryrych/design-tokens-example@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@wryrych/design-tokens-example/-/design-tokens-example-1.0.2.tgz#a2105344db16d20e511f22d09160d1ebbdc2bdb3"
-  integrity sha512-v/gcLzo5Snbux3/pcSvC7rYVANPvGG51wqtqQXp8KstOATDoR61kRHNUDuVMGBo0LEDABfWa16V7KNZeTwcTCA==
+"@wryrych/design-tokens-example@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@wryrych/design-tokens-example/-/design-tokens-example-1.0.3.tgz#e4c595e43d817075b001448995e876df1916a3e8"
+  integrity sha512-kllSJWKJ+Z4Tw3UoTC/VadLnG43IXa84lNpnRPHxTges5yG1i89Xq+0VxlBL2Qm0Ct688xxZ6LDvTYHBOBVuzQ==
 
 "@xtuc/ieee754@^1.2.0":
   version "1.2.0"
