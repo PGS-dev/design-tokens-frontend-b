@@ -5,7 +5,7 @@
 
 This repository is used as an example for the article [final name of the article]() (*Polish*) published on the [PGS software blog](https://www.pgs-soft.com/blog/).
 
-The project uses [@wryrych/design-tokens-example](@wryrych/design-tokens-example) *npm* package as a dependency. Each `scss` file has an access to design tokens.
+The project uses [@wryrych/design-tokens-example](https://www.npmjs.com/package/@wryrych/design-tokens-example) *npm* *npm* package as a dependency. Each `scss` file has an access to design tokens.
 
 ```js
 module.exports = {
